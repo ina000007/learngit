@@ -1,1 +1,2 @@
 Hello from hibernate!!
+Edit from remote dirrectly.
